@@ -8,10 +8,12 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Walsea Team
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: |+
+
+      The lone whale, adrift and free, wounded deeper than the sea
+
+
+
     actions:
       - label: Get started
         altText: ''
